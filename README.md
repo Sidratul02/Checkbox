@@ -1,13 +1,13 @@
 # ✓ Checkboxes
 
-A modern, interactive playground featuring 1k clickable checkboxes with real-time synchronization across multiple servers using Socket.io and Redis.
+A modern, interactive playground featuring 1M clickable checkboxes with real-time synchronization across multiple servers using Socket.io and Redis.
 
 <img width="1125" height="603" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/2592e30a-28cf-4971-8943-55a3fb5a5e37" />
 
 
 ## Features
 
-- **1k Checkboxes** - Dynamic grid of interactive checkboxes
+- **1M Checkboxes** - Dynamic grid of interactive checkboxes
 - **Live Statistics** - Real-time tracking of checked boxes and progress
 - **Real-time Sync** - Multi-server synchronization using Socket.io and Redis
 - **Rate Limiting** - 5-second cooldown per checkbox to prevent abuse
